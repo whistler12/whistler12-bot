@@ -1,4 +1,4 @@
-# [whistler12.bot]
+# whistler12 Bot
 A bot written on discord.py (formerly on discord.js)
 
 Current version: **0.1.0** | Current stage: **Alpha**
